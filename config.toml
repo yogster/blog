@@ -1,0 +1,24 @@
+baseURL = "/"
+relativeUrls = true
+languageCode = "en-gb"
+title = "Yogster's Blog"
+theme = "beautifulhugo"
+disqusShortname = "yogster-bear"
+
+[Params]
+  subtitle = "A blog about decentralised technology, economy and society"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+
+[Author]
+  github = "yogster"
+
+[[menu.main]]
+  name = "Read on IPFS"
+  url = "https://ipfs.io/ipns/yogster.blog/"
+  weight = 1

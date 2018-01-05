@@ -1,0 +1,45 @@
+.container[role=main] {
+    width: 100%;
+  }
+
+figcaption {
+    text-align: center;
+}
+
+figcaption .attr:before {
+    content: '[Source: ';
+}
+
+figcaption .attr:after {
+    content: ']';
+}
+
+figcaption .attr {
+    font-size: 12px;
+}
+
+figure {
+    margin: 20px 0;
+}
+figure img {
+    border: 1px solid black;
+}
+
+@media only screen and (min-width: 768px) {
+    .intro-header .page-heading h1,
+    .intro-header .tags-heading h1 {
+        font-size: 70px;
+    }
+}
+
+.navbar-custom .navbar-brand {
+    -webkit-transition: font-size 0.5s ease-in-out;
+    -moz-transition: font-size 0.5s ease-in-out;
+    transition: font-size 0.5s ease-in-out;
+}
+
+@media only screen and (max-width: 320px) {
+    .navbar-custom:not(.top-nav-short) .navbar-brand {
+        font-size: 16px;
+    }
+}
