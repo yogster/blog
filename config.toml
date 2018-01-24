@@ -3,7 +3,6 @@ relativeUrls = true
 languageCode = "en-gb"
 title = "Yogster's Blog"
 theme = "beautifulhugo"
-disqusShortname = "yogster-bear"
 
 [Params]
   subtitle = "A blog about decentralised technology, economy and society"
