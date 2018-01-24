@@ -15,6 +15,10 @@ disqusShortname = "yogster-bear"
   comments = true
   readingTime = true
 
+[Params.staticman]
+  api = "https://api.staticman.net/v2/entry/yogster/blog/master/comments"
+  pulls = "https://github.com/yogster/blog/pulls"
+
 [Author]
   github = "yogster"
 
