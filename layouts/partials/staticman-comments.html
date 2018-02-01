@@ -5,9 +5,9 @@
   {{ $comments := index $.Site.Data.comments $slug }}
   {{ if $comments }}
     {{ if gt (len $comments) 1  }}
-      <h2>{{ len $comments  }} {{ i18n "moreComment" }}:</h2>
+      <h2>{{ len $comments  }} {{ i18n "moreComment" }}</h2>
     {{ else }}
-      <h2>{{ len $comments  }} {{ i18n "oneComment" }}:</h2>
+      <h2>{{ len $comments  }} {{ i18n "oneComment" }}</h2>
     {{ end }}
   {{ else }}
     <h2>{{ i18n "noComment" }}</h2>
