@@ -43,3 +43,7 @@ figure img {
         font-size: 16px;
     }
 }
+
+.staticman-comments h2 {
+    margin-bottom: 20px;
+}

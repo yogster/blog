@@ -10,7 +10,7 @@
       <h2>{{ len $comments  }} {{ i18n "oneComment" }}</h2>
     {{ end }}
   {{ else }}
-    <h3>{{ i18n "noComment" }}</h3>
+    <h2>{{ i18n "noComment" }}</h2>
   {{ end }}
 
   {{ $.Scratch.Set "hasComments" 0 }}
