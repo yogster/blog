@@ -22,6 +22,11 @@ theme = "beautifulhugo"
   github = "yogster"
 
 [[menu.main]]
+  name = "Subscribe"
+  url = "page/subscribe"
+  weight = 1
+
+[[menu.main]]
   name = "Read on IPFS"
   url = "https://ipfs.io/ipns/yogster.blog/"
-  weight = 1
+  weight = 2

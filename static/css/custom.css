@@ -47,3 +47,8 @@ figure img {
 .staticman-comments h2 {
     margin-bottom: 20px;
 }
+
+.subscription-form {
+    margin: 20px 0;
+    text-align: center;
+}
