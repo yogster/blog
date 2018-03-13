@@ -21,8 +21,14 @@ figcaption .attr {
 figure {
     margin: 20px 0;
 }
+
 figure img {
     border: 1px solid black;
+}
+
+.go-back {
+    text-align: center;
+    margin-top: 30px;
 }
 
 @media only screen and (min-width: 768px) {
