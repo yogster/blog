@@ -23,7 +23,7 @@ theme = "beautifulhugo"
 
 [[menu.main]]
   name = "Subscribe"
-  url = "page/subscribe"
+  url = "page/subscribe/"
   weight = 1
 
 [[menu.main]]
