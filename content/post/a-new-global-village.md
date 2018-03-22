@@ -1,6 +1,6 @@
 ---
 title: "A new global village"
-bigimg: [{src: "/img/busride2_1920.jpg", desc: "\"Bus ride\" by Simon Stålenhag"}]
+bigimg: [{src: "../../img/busride2_1920.jpg", desc: "\"Bus ride\" by Simon Stålenhag"}]
 date: 2018-01-17T20:01:36Z
 draft: false
 ---
