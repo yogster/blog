@@ -1,5 +1,6 @@
 ---
 title: "A new global village"
+bigimg: [{src: "/img/busride2_1920.jpg", desc: "\"Bus ride\" by Simon Stålenhag"}]
 date: 2018-01-17T20:01:36Z
 draft: false
 ---
@@ -15,8 +16,6 @@ When the Web became mainstream in the 90s, the metaphor of the *"global village"
 It looked good for a short while. However, twenty years later it is becoming apparent we are back to the old status quo, with a few large corporations ruling the Internet and dictating in their own terms how it should be used.
 
 Only this time is different: We are not talking about oil, banks, pharma, food producers and retailers. [These still top the charts overwhelmingly in terms of market capitalisation][1]. We are talking about a new breed of companies that understand that [power is not in money, or information, but in our attention][4]. We are of course talking about mainly tech companies (the [in]famous GAFAM - Google, Apple, Facebook, Amazon and Microsoft although I would also include eBay and Alibaba).
-
-{{< figure src="/img/gafam.png" alt="GAFAM - We love your data!" attr="Framasoft" attrlink="https://framasoft.org/?l=en" >}}
 
 What is worryingly different about these companies is that, unlike ExxonMobil, JPMorgan Chase or Pfizer, they infiltrate every aspect of our lives in search for our precious attention, and in doing so shape our society: From the way we [relate to each other][5], to how we [shop][6], work and play. In their drive to pervade every aspect of our lives, these companies are now bridging the virtual to become ubiquitous, with [driverless cars][7], [flu vaccines][8], [Internet access][9] and [payments][10], just to name a few. All in their drive to keep your attention with them for as long and continually as possible.
 
@@ -39,8 +38,6 @@ Finally, it also means we are losing our virtual public spaces to privately owne
 So what's the alternative? I suppose there are as many answers to that question as there are people, but here you have my penny's worth:
 
 My vision is a society made up of many diverse local communities, which organise themselves and collaborate with each other through the use of open-source technology created for their own benefit, not for the benefit of private investors. A bit like the proverbial village we all yearn for: Where we actually know our neighbours, we are all self-reliant, but also interdependent and help each other in times of need, and most services and activities are community-led.
-
-{{< figure src="/img/busride2_1920.jpg" attr="Simon Stålenhag" attrlink="http://www.simonstalenhag.se/" >}}
 
 The backbone of this society would be a decentralised Internet, with cryptocurrency replacing banks and smart contracts in blockchains replacing middlemen. Where advanced AI helps us make the best long-term decisions (something we're hopeless at) instead of figuring out how to sell us stuff we don't need. Where the sharing economy is truly about sharing within the community. For example:
 
