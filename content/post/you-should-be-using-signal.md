@@ -1,7 +1,7 @@
 ---
 title: "You should be using Signal"
 subtitle: "Why you should replace WhatsApp with Signal, and how you can bring your friends with you"
-bigimg: [{src: "../img/signal-app.jpg"}]
+bigimg: [{src: "../../img/signal-app.jpg"}]
 date: 2018-03-23T13:12:36Z
 ---
 [Signal][3] is a fully-featured instant messaging app which is open source, nonprofit and audited regularly. They only collect the data they need to function, and only for as long as strictly necessary. On the other WhatsApp, [once a champion of privacy that vowed never to sell ads][14], has now become another inlet of personal data for its parent company, Facebook.
