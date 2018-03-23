@@ -27,6 +27,10 @@ theme = "beautifulhugo"
   comments = true
   readingTime = true
 
+[[Params.bigimg]]
+  src = "img/home.png"
+  desc = "Martin Grandjean"
+
 [Params.staticman]
   api = "https://api.staticman.net/v2/entry/yogster/blog/master/comments"
   pulls = "https://github.com/yogster/blog/pulls"
