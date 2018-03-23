@@ -4,20 +4,6 @@ languageCode = "en-gb"
 title = "Yogster's Blog"
 theme = "beautifulhugo"
 
-[Params]
-  subtitle = "A blog about decentralised technology, economy and society"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
-  commit = false
-  rss = true
-  comments = true
-  readingTime = true
-
-[Params.staticman]
-  api = "https://api.staticman.net/v2/entry/yogster/blog/master/comments"
-  pulls = "https://github.com/yogster/blog/pulls"
-
 [Author]
   github = "yogster"
 
@@ -30,3 +16,17 @@ theme = "beautifulhugo"
   name = "Read on IPFS"
   url = "https://ipfs.io/ipns/yogster.blog/"
   weight = 2
+
+[Params]
+  subtitle = "A blog about distributed technology, economy and society"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+
+[Params.staticman]
+  api = "https://api.staticman.net/v2/entry/yogster/blog/master/comments"
+  pulls = "https://github.com/yogster/blog/pulls"

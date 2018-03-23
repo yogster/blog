@@ -67,7 +67,7 @@ I have approached this by moving my WhatsApp groups to Signal, starting with sma
 
 Once I've finished with all my groups, I will to send a message to everybody saying that I plan to stop using WhatsApp and use Signal esclusively, along with a link to this post. It sounds drastic, but by then all the people who I contact often will be in Signal already anyway. The rest can call me or text me. It's actually nice to hear other people's voices!
 
-# Epilogue: What about decentralised instant messaging?
+# Epilogue: What about distributed instant messaging?
 
 I really like Signal because it's open source, nonprofit and transparent. But they are still a single controlling organisation. How cool would it be to have a Signal that doesn't actually depend on a single entity? There are some peer-to-peer instant messaging apps out there, such as [FireChat][11], but all seems in its infancy. I'll be keen to try them once they reach maturity, but in the meantime it's Signal for me all the way!
 

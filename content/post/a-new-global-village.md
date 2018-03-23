@@ -40,7 +40,7 @@ So what's the alternative? I suppose there are as many answers to that question 
 
 My vision is a society made up of many diverse local communities, which organise themselves and collaborate with each other through the use of open-source technology created for their own benefit, not for the benefit of private investors. A bit like the proverbial village we all yearn for: Where we actually know our neighbours, we are all self-reliant, but also interdependent and help each other in times of need, and most services and activities are community-led.
 
-The backbone of this society would be a decentralised Internet, with cryptocurrency replacing banks and smart contracts in blockchains replacing middlemen. Where advanced AI helps us make the best long-term decisions (something we're hopeless at) instead of figuring out how to sell us stuff we don't need. Where the sharing economy is truly about sharing within the community. For example:
+The backbone of this society would be a distributed Internet, with cryptocurrency replacing banks and smart contracts in blockchains replacing middlemen. Where advanced AI helps us make the best long-term decisions (something we're hopeless at) instead of figuring out how to sell us stuff we don't need. Where the sharing economy is truly about sharing within the community. For example:
 
 - A community AirBnB where the proceeds are paid back to the community.
 - An Uber run by the community, for the community
@@ -59,14 +59,14 @@ I am going to be writing about my journey contributing to create a society like 
 The non-technical posts will be:
 
 - Pseudo-socio-economical ramblings like this post
-- About my experiences decentralising (mainly de-Googling) my life
+- About my experiences distributing (mainly de-Googling) my life
 - About my experiences trying to create a new global village in my community
 
 The technical posts will be:
 
-- How-to guides to help other decentralise theirs
-- About decentralised services out there for you to use
-- About decentralised technologies (IPFS, Blockchain, Smart contracts, cryptocurrencies...)
+- How-to guides to help other distribute theirs
+- About distributed services out there for you to use
+- About distributed technologies (IPFS, Blockchain, Smart contracts, cryptocurrencies...)
 
 Thanks for reading!
 
