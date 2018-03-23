@@ -28,7 +28,7 @@ theme = "beautifulhugo"
   readingTime = true
 
 [[Params.bigimg]]
-  src = "img/home.png"
+  src = "img/home.jpg"
   desc = "Martin Grandjean"
 
 [Params.staticman]
