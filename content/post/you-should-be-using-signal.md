@@ -63,9 +63,11 @@ Not in this case. Signal operates as a nonprofit. While [Open Whisper Systems][6
 
 You don't need to choose; you can have both installed while you ask your contacts to switch to Signal. I have been doing this for a few weeks and it's suprising how willing people are to try Signal.
 
-I have approached this by moving my WhatsApp groups to Signal, starting with smaller groups of close friends who are happy to humour me and try Signal. I then moved to larger groups that may be harder to move. By this time, quite a few people from the smaller groups were in Signal already, so people are not welcomed by an empty contacts list. Also, those without Signal get a sense that they are missing out.
+I have approached this by moving my WhatsApp groups to Signal, starting with smaller groups of close friends who are happy to humour me and try Signal. I then moved to larger groups that may be harder to move. By this time, quite a few people from the smaller groups were in Signal already, so people are not greeted by an empty contacts list. Also, those without Signal get a sense that they are missing out.
 
 Once I've finished with all my groups, I will to send a message to everybody saying that I plan to stop using WhatsApp and use Signal esclusively, along with a link to this post. It sounds drastic, but by then all the people who I contact often will be in Signal already anyway. The rest can call me or text me. It's actually nice to hear other people's voices!
+
+You are helping even if you install Signal and don't use it, as when other people install it they'll see some of their friends there already.
 
 # Epilogue: What about distributed instant messaging?
 
