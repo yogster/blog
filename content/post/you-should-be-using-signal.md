@@ -38,7 +38,7 @@ So basically WhatsApp can build a network of who-knows-who, regardless of whethe
 
 # So how is Signal different?
 
-Signal is **open source, nonprofit and audited regularly**. Being open source means the code is open to independent review, the security designs are well-documented, and everybody can use the code for free. In fact, [WhatsApp started using the Signal protocol in 2016][9]. So if WhatsApp uses the same secure protocol as Signal, what's the difference? Again the answer lies in [Signal's privacy policy][10] (edited for readability):
+Signal is **open source, nonprofit and audited regularly**. Being open source means the code is open to independent review, the security designs are well-documented, and everybody can use the code for free. In fact, [WhatsApp started using Signal's secure messaging in 2016][9]. So if WhatsApp uses the same secure protocol as Signal, what's the difference? Again the answer lies in [Signal's privacy policy][10] (edited for readability):
 
 ---
 #### Information we store
