@@ -34,7 +34,7 @@ WhatsApp is often touted as secure as all messages are encrypted, even as they p
 - **If you share third-party links via WhatsApp, WhatsApp might retrieve information from the source.**
 
 ---
-So basically WhatsApp can build a network of who-knows-who, regardless of whether they have WhatsApp installed. They can also know where you have been, what phone and carrier you use, and even some of the stuff you share online. And it all can be linked to your existing data in Facebook and Instagram, as they also have your phone number. Did you really think the ability to log into Facebook with your phone number was for your convenience? How does it feel being a product?
+So basically WhatsApp can build a network of who-knows-who, regardless of whether they have WhatsApp installed. They can also know where you have been, what phone and carrier you use, and even some of the stuff you share online. And it all can be linked to your existing data in Facebook and Instagram, as they also have your phone number. Did you really think the ability to log in to Facebook with your phone number was for your convenience? How does it feel being a product?
 
 # So how is Signal different?
 
