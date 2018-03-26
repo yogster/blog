@@ -59,7 +59,7 @@ That's it. The only data they store is your phone number. And they don't even ne
 
 Not in this case. Signal operates as a nonprofit. While [Open Whisper Systems][6], the company behind Signal, is not registered as a nonprofit, they have just created the [Signal Foundation][7], a nonprofit whose mission is "to support, accelerate, and broaden Signal’s mission of making private communication accessible and ubiquitous." The foundation was started with an initial $50 million in funding from Brian Acton, co-Founder of WhatsApp, [who left in 2017 after the company launched monetisation efforts][13] and now is [telling everybody to stop using Facebook][8].
 
-# Yeah but all my friends are on WhatsApp!
+# Yeah, but all my friends are on WhatsApp!
 
 You don't need to choose; you can have both installed while you ask your contacts to switch to Signal. I have been doing this for a few weeks and it's suprising how willing people are to try Signal.
 
