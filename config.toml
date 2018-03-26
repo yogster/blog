@@ -3,6 +3,7 @@ relativeUrls = true
 languageCode = "en-gb"
 title = "Yogster's Blog"
 theme = "beautifulhugo"
+enableRobotsTXT = true
 
 [Author]
   github = "yogster"
