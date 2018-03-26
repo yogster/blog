@@ -71,7 +71,7 @@ You are helping even if you install Signal and don't use it, as when other peopl
 
 # Epilogue: What about distributed instant messaging?
 
-I really like Signal because it's open source, nonprofit and transparent. But they are still a single controlling organisation. How cool would it be to have a Signal that doesn't actually depend on a single entity? There are some peer-to-peer instant messaging apps out there, such as [FireChat][11], but all seems in its infancy. I'll be keen to try them once they reach maturity, but in the meantime it's Signal for me all the way!
+I really like Signal because it's open source, nonprofit and transparent. But they are still a single controlling organisation. How cool would it be to have a Signal that doesn't actually depend on a single entity? There are some peer-to-peer instant messaging apps out there, such as [FireChat][11] or [Riot][15], but all seems in its infancy. I'll be keen to try them once they reach maturity, but in the meantime it's Signal for me all the way!
 
 [1]: https://www.investopedia.com/articles/investing/032515/whatsapp-best-facebook-purchase-ever.asp
 [2]: https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election
@@ -86,3 +86,4 @@ I really like Signal because it's open source, nonprofit and transparent. But th
 [12]: https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html
 [13]: http://www.businessinsider.com/whatsapp-cofounder-brian-acton-is-leaving-the-company-2017-9?IR=T
 [14]: https://blog.whatsapp.com/245/Why-we-dont-sell-ads
+[15]: https://about.riot.im/
