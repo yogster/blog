@@ -3,7 +3,7 @@ title: "A new global village"
 subtitle: "Welcome, and thanks for coming!"
 bigimg: [{src: "../../img/busride2_1920.jpg", desc: "\"Bus ride\" by Simon Stålenhag"}]
 date: 2018-01-17T20:01:36Z
-draft: false
+tags: [ "general", "meta" ]
 ---
 
 I call myself *Yogster Bear*, and lately I have been doing **a lot** of thinking about society and the technology that shapes it. So much thinking in fact, that I decided to start this blog to reach out to others who might be having the same concerns and hopes.
